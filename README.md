@@ -1,2 +1,2 @@
 # TSLA_DataCleaning
-In this Repo I explained the concept of using **standard deviation** to remove **Outliers**
+Implemented data analysis and visualization of TSLA stock data using Python libraries. Installed necessary packages (yfinance, seaborn) and imported them with aliases. Retrieved and stored the last five years of TSLA stock data in a DataFrame, then represented the data using the histplot function. Finally, identified and removed outlier values from the "Close" column, displaying the refined data distribution without outliers.
