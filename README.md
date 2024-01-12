@@ -8,6 +8,7 @@ This project focuses on conducting data analysis and visualization of TSLA (Tesl
 ## Project Features
 
  Data Retrieval and Storage:
+ 
           Fetch the TSLA stock data for the last five years using the yfinance library.
           Store the acquired data in a DataFrame for ease of manipulation and analysis.
 
