@@ -1,9 +1,12 @@
+# TSLA Data Cleaning Project 
+
+
 ## Project Decription
 This project focuses on conducting data analysis and visualization of TSLA (Tesla, Inc.) stock data using Python. The primary goal is to provide insights into the historical performance of TSLA stock over the last five years, identify patterns, and visualize the data distribution. The project utilizes Python libraries such as yfinance and seaborn for fetching and analyzing the stock data.
 
 
 ## Project Features
-    Data Retrieval and Storage:
+ Data Retrieval and Storage:
           Fetch the TSLA stock data for the last five years using the yfinance library.
           Store the acquired data in a DataFrame for ease of manipulation and analysis.
 
